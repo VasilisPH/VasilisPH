@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @VasilisPH
+- 👋 Hi, I’m Vasilis
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Vasilis@project.house
 
 <!---
 VasilisPH/VasilisPH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
