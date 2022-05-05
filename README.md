@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasilis
 
-- 🌱 I’m currently learning Flutter/Dart
+- 🌱 I’m currently working on a Flutter/Dart project
 
 - 📧 Contact me at: willmk125@gmail.com
 
