@@ -2,7 +2,7 @@
 
 - 🌱 I’m a Flutter developer, based in Greece
 
-- 📧 Contact me at: willmk125@gmail.com
+- 📧 Contact me at: vamakris07@gmail.com
 
 
 <!---
