@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasilis
 
-- 🌱 I’m a Flutter developer, based in Greece
+- 🌱 I’m a Flutter developer at Project House P.C, based in Greece
 
 - 📧 Contact me at: vamakris07@gmail.com
 
